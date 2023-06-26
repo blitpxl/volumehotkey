@@ -18,6 +18,7 @@ You can lookup the key name and value below:
 | 0x2   | CTRL     |
 | 0x4   | SHIFT    |
 | 0x8   | WIN      |
+
 The second line is the value for increase-volume key, and the third line is the value for decrease-volume key. By default it is set to `F8` to increase and `F7` to decrease.
 You can lookup the key name and value [here](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes).
 
