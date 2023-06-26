@@ -1,5 +1,6 @@
 ﻿# About
 ![volume](https://github.com/blitpxl/volumehotkey/blob/master/img/volume.png?raw=true)
+
 The volume-adjust slider usually can be triggered only with laptop keyboards that has the built-in volume key. Well now you could do it with regular keyboards too! Just press `ALT`+`F8` to increase the volume, and `ALT`+`F7` to reduce the volume.
 
 # Modifying the shortcut keys
